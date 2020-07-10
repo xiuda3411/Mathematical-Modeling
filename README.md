@@ -38,3 +38,6 @@
 <https://zhidao.baidu.com/question/177018666.html>
 
 <https://blog.csdn.net/narcissus2_/article/details/100022182>
+
+#### 微分方程模型
+
